@@ -1,1 +1,1 @@
-# ChatOn - A basic chat application made using PHP and MySQL
+ChatOn - A basic chat application made using PHP and MySQL
